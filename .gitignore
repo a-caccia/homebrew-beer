@@ -3,7 +3,8 @@
 ~$*.xls
 ~$*.xlsm
 ~$*.docx
-
+misurazioni.xlsx
+checklist.docx
 # OS-specific files
 .DS_Store
 Thumbs.db
