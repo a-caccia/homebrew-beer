@@ -1,0 +1,6 @@
+Step,Target Date,Measurement (SG),Notes
+Start Fermentation (OG Measurement),YYYY-MM-DD,OG ~X.XXX,Record original gravity and temperature
+Check Fermentation (1st FG Measurement),YYYY-MM-DD,FG ~X.XXX,"If FG ~X.XXX, wait 2 more days and re-check"
+Confirm FG & Bottle (2nd FG Measurement),YYYY-MM-DD,Same as above (stable 48h),"If stable, proceed to bottling with Xg sugar in solution"
+End of Secondary Fermentation (Carbonation),YYYY-MM-DD,,Store at XX–XX°C
+End of Maturation (Ready to drink),YYYY-MM-DD,,"Store at XX–XX°C, taste test optional"
